@@ -1,0 +1,1 @@
+I did this project as part of udemy course while learning redux along with react few months ago.
